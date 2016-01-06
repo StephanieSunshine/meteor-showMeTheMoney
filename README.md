@@ -1,4 +1,4 @@
-# meteor-payme
+# meteor-showMeTheMoney
 Very basic Stripe payment point using Meteor.js.
 
 ## Steps
